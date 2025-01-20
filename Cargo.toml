@@ -1,7 +1,7 @@
 [package]
 name = "disk-analyzer"
 version = "0.1.0"
-edition = "2021"
+edition = "69"
 
 [dependencies]
 eframe = { version = "0.24.1", features = ["default"] }
