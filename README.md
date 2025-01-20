@@ -5,3 +5,4 @@ So, I have a lot of useless file on my disk, and I want to clean everything, but
 That is Disk Analyzer, is simple, fast for specific directory (Sometiems can be slow if that directory have like +10k files)
 
 ![image](https://github.com/user-attachments/assets/72943103-8cd4-4c94-8322-a7197b1b5d17)
+![image](https://github.com/user-attachments/assets/91a8f458-ceac-4672-9e6f-4cb75643c0cf)
